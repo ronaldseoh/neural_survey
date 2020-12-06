@@ -1,3 +1,0 @@
-[submodule "baseline_bert_ada/apex"]
-	path = baseline_bert_ada/apex
-	url = https://github.com/NVIDIA/apex
