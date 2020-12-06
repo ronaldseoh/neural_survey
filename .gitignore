@@ -133,3 +133,8 @@ data/SemEval2014_Task4/Laptop_Train_v2.xml
 data/SemEval2014_Task4/Laptops_Test_Gold.xml
 data/SemEval2014_Task4/Restaurants_Test_Gold.xml
 data/SemEval2014_Task4/Restaurants_Train_v2.xml
+bm25/index/
+bm25/test_qrels_laptop.txt
+bm25/test_qrels_restaurant.txt
+bm25/test_queries_restaurant.txt
+bm25/test_queries_laptop.txt
