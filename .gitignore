@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# SemEval2014 Task 4 dataset
+data/SemEval2014_Task4/Laptop_Train_v2.xml
+data/SemEval2014_Task4/Laptops_Test_Gold.xml
+data/SemEval2014_Task4/Restaurants_Test_Gold.xml
+data/SemEval2014_Task4/Restaurants_Train_v2.xml
