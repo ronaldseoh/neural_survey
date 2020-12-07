@@ -142,3 +142,9 @@ bm25/collection/laptop_test/laptop_test.jsonl
 bm25/collection/restaurant_test/restaurant_test.jsonl
 bm25/test_results_laptop.txt
 bm25/test_results_restaurant.txt
+bm25/test_qrels_laptop_original.txt
+bm25/test_qrels_restaurant_original.txt
+bm25/test_queries_laptop_original.txt
+bm25/test_results_laptop_original_new.txt
+bm25/test_results_restaurant_original_new.txt
+bm25/test_queries_restaurant_original.txt
