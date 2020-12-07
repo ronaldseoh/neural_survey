@@ -148,3 +148,5 @@ bm25/test_queries_laptop_original.txt
 bm25/test_results_laptop_original_new.txt
 bm25/test_results_restaurant_original_new.txt
 bm25/test_queries_restaurant_original.txt
+siamese/query_results/
+merge/query_results/
